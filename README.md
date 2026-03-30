@@ -216,3 +216,19 @@ mental_fatique/
 ---
 
 **Mental Fatigue Detector** - AI-powered analysis for better productivity and well-being.
+
+
+
+
+<img width="1440" height="752" alt="image" src="https://github.com/user-attachments/assets/b04b6f14-59ec-4ee4-b5f8-60ea4d596cae" />
+<img width="1235" height="875" alt="image" src="https://github.com/user-attachments/assets/c7f24e8e-c4fa-4817-b4d3-1012322c825a" />
+<img width="1327" height="876" alt="image" src="https://github.com/user-attachments/assets/8c3052cf-da69-4f8b-9814-2e67c8e62a32" />
+<img width="1197" height="693" alt="image" src="https://github.com/user-attachments/assets/35d43b81-2569-4dd7-8a63-a6fe083a9fa7" />
+<img width="1600" height="775" alt="image" src="https://github.com/user-attachments/assets/d42c4c1c-c246-4805-8eb9-ec328e152843" />
+<img width="1600" height="753" alt="image" src="https://github.com/user-attachments/assets/39a7f32a-0325-4c5c-8cae-deafe28aee12" />
+
+
+
+
+
+
